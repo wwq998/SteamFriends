@@ -16,6 +16,7 @@
 
 | Avatar                                                                            | Name      | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
+| ![](https://avatars.steamstatic.com/632808a8c50e00ef60ce59287fe3e5ea1bd00b1a.jpg) | IRENE     | [76561198180741267](https://steamcommunity.com/profiles/76561198180741267/) | ❌           | 2026-07-03 18:00:06 |          | 2026-07-09 19:25:01 |
 | ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2026-07-03 16:20:24 |
 | ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT      | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2026-07-03 16:20:24 |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 王先生       | [76561198863507094](https://steamcommunity.com/profiles/76561198863507094/) | ✅           | 2025-03-10 20:57:56 |          |                     |
@@ -28,5 +29,4 @@
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | yz295385  | [76561199314910611](https://steamcommunity.com/profiles/76561199314910611/) | ✅           | 2023-08-26 21:14:04 |          |                     |
 | ![](https://avatars.steamstatic.com/f2eca8d585fdc2d0d5e7abd8c22437506a89642c.jpg) | WEN       | [76561199552184542](https://steamcommunity.com/profiles/76561199552184542/) | ✅           | 2024-03-20 13:47:46 |          |                     |
 | ![](https://avatars.steamstatic.com/1a9d83d1caf2e8f83c190361df5de9c975417ed0.jpg) | 布丁布丁王八念经  | [76561199137734389](https://steamcommunity.com/profiles/76561199137734389/) | ✅           | 2026-06-29 00:29:19 |          |                     |
-| ![](https://avatars.steamstatic.com/632808a8c50e00ef60ce59287fe3e5ea1bd00b1a.jpg) | IRENE     | [76561198180741267](https://steamcommunity.com/profiles/76561198180741267/) | ✅           | 2026-07-03 18:00:06 |          |                     |
 | ![](https://avatars.steamstatic.com/37cf1dc1f48ac849fb89a0b11182816609a9e6eb.jpg) | 喵喵喵       | [76561198789718738](https://steamcommunity.com/profiles/76561198789718738/) | ✅           | 2026-07-07 21:31:33 |          |                     |
